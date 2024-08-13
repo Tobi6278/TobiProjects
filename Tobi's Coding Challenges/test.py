@@ -1,2 +1,2 @@
-import pyautogui
-pyautogui.moveTo(100, 200)
+for i in range(4):
+    print(i)
